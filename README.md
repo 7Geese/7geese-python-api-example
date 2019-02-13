@@ -1,6 +1,4 @@
 # 7Geese API Authentication example in Python
-*Disclosure: I am an employee of 7Geese.*
-
 7Geese is an enterprise performance management and employee engagement platform. It helps you and your team to track OKRs, give each other recognition and more.
 
 To automatically track the progress of your OKRs in other applications, you might want to write a script for integrating the two services. You might also want to use data in 7Geese on other platforms, like data analysis dashboards.
@@ -9,7 +7,7 @@ While 7Geese might decide that your integration is not requested by enough users
 
 If there are any questions or issue, please [file an issue](https://github.com/jaller94/7geese-nodejs-auth-example/issues) or send me a Pull Request. I love every interaction with my projects!
 
-## Limitations
+## Requirements
 * You need a 7Geese account.
 * Your network must use password authentication.
   * Support for external login providers might be added later. It’s possible using an authorization code grant.
