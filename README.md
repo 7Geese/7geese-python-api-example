@@ -5,7 +5,7 @@ To automatically track the progress of your OKRs in other applications, you migh
 
 While 7Geese might decide that your integration is not requested by enough users to develop it using [7Geese’s RESTful APIs](https://support.7geese.com/hc/en-us/articles/206301887-API-App-Integrations#restful-apis). This repository can help you to make it happen!
 
-If there are any questions or issue, please [file an issue](https://github.com/jaller94/7geese-nodejs-auth-example/issues) or send me a Pull Request. I love every interaction with my projects!
+If there are any questions or issue, please [file an Issue](https://github.com/7Geese/7geese-nodejs-api-example/issues) or send me a Pull Request. I love every interaction with my projects!
 
 ## Requirements
 * You need a 7Geese account.
